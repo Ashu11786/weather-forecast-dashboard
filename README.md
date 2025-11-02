@@ -74,6 +74,8 @@ Deploy easily using Firebase, Netlify, or Vercel.
 ## 📸 Preview (optional)
 
 *Add screenshots or a GIF of your dashboard UI here.*
+ 🎥Video [Click here to watch the demo]"C:\Projects\weather-dashboard\video-demo.mp4"
+ Screenshot [Click here]"<img width="1411" height="899" alt="image" src="https://github.com/user-attachments/assets/54aa6d8d-79be-4c11-9d8f-8b6520f55c04" />
 
 ---
 
